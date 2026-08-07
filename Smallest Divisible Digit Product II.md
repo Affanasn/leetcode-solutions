@@ -1,0 +1,10 @@
+# Smallest Divisible Digit Product II
+
+Problem URL:
+https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/?envType=daily-question&envId=2026-08-07
+
+## Solution
+
+```cpp
+
+```
