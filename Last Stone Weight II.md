@@ -9,7 +9,7 @@ https://leetcode.com/problems/last-stone-weight-ii/description/
 class Solution {
 public:
     int lastStoneWeightII(vector<int>& stones) {
-        
+         
     }
 };
 ```
